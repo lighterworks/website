@@ -29,26 +29,26 @@ main.main {
 }
 
 div.slug-text{
-  color: #0000004b;
+  color: #585858;
   font-weight: 300;
   font-size: 18px;
   padding: 5%;
 }
 
 div.contact {
-  padding: 3rem 0;
+  padding: 1rem 0 5rem 0;
 }
 
 div.contact a.mail{
   font-size: 20px;
   text-decoration: none;
-  color:#bebebe;
+  color:#585858;
   border-bottom: 1px solid #c7c7c7;
 }
 
 footer.footer{
   text-align: center;
-  font-size: 0.8rem;
+  font-size: 13px;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -58,14 +58,14 @@ footer.footer{
 
 @media (max-width: 799px) {
   div.slug-text{
-    font-size: 13px;
+    font-size: 16px;
   }
 
   div.contact a.mail{
-    font-size: 14px;
+    font-size: 18px;
   }
 
   footer.footer{
-    font-size: 0.4rem;
+    font-size: 12px;
   }
 }
