@@ -26,23 +26,23 @@ svg.header-brand {
 main.main {
   text-align: center;
   
-  padding-top: 10%;
 }
 
-span.slug-text{
-  color: #808080;
+div.slug-text{
+  color: #0000004b;
   font-weight: 300;
   font-size: 18px;
+  padding: 5%;
 }
 
 div.contact {
-  padding: 2rem;
+  padding: 3rem 0;
 }
 
 div.contact a.mail{
   font-size: 20px;
   text-decoration: none;
-  color:#aaaaaa;
+  color:#bebebe;
   border-bottom: 1px solid #c7c7c7;
 }
 
@@ -57,7 +57,7 @@ footer.footer{
 }
 
 @media (max-width: 799px) {
-  span.slug-text{
+  div.slug-text{
     font-size: 13px;
   }
 
