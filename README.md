@@ -1,3 +1,3 @@
-# Lighter Works Studio
+# LighterWorks Studio
 
-lightworks.saltchang.com
+The official website of [LighterWorks Studio](https://lighterworks.com).
